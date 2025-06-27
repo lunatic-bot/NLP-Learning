@@ -1,0 +1,7 @@
+1. Difference between Train, Test and Validation
+Train - model training - (Train and Validation - Hyper parameter tuning)
+Test - model testing (model never sees this)
+
+2. Why people use Random Forest insted of decision Tree
+DT usually has - low bias and high varience
+To keep this low bias and low varience, we use Random Forest
