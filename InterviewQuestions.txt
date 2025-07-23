@@ -5,3 +5,7 @@ Test - model testing (model never sees this)
 2. Why people use Random Forest insted of decision Tree
 DT usually has - low bias and high varience
 To keep this low bias and low varience, we use Random Forest
+
+3. fit, trasnform, fit-transform?
+4. fit-predict?
+5. Normalization vs standerdization
