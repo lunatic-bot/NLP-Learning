@@ -1,0 +1,2 @@
+1. Fake news with LSTM, Bidirectional LSTM
+2. IMDB with LSTM
