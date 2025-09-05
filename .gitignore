@@ -3,3 +3,4 @@ SMSSpamCollection
 IMDB Dataset.csv
 logistic_regression_model.pkl
 tfidf_vectorizer.pkl
+titanic.csv
