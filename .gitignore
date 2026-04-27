@@ -6,3 +6,4 @@ tfidf_vectorizer.pkl
 titanic.csv
 Sample-Superstore.csv
 NOAA-Daily-Weather
+datasets/FakeNews
